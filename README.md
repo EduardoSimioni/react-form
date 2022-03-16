@@ -1,10 +1,12 @@
 O projeto foi realizado utilizando react-hook-form e yup para fazer as validações do formulário, e caso algo esteja incorreto ou faltando, o erro é exibido na tela.
 Quando o usuário envia o pedido as informações da compra ficam salvas no localStorage, e quando ele clica no botão de confirmar os dados são excluidos para que ele possa efetuar uma nova compra.
+Para melhorar a organização do código foi usado o eslint e o prettier.
 
 Para iniciar use yarn start
 
 The project was carried out using react-hook-form and yup to validate the form, and if something is incorrect or missing, the error is displayed on the screen.
 When the user sends the order, the purchase information is saved in localStorage, and when he clicks on the confirm button, the data is deleted so he can make a new purchase.
+To improve code organization, eslint and prettier were used.
 
 To start use yarn start
 
